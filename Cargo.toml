@@ -1,0 +1,15 @@
+[package]
+name = "velox"
+version = "0.1.0"
+edition = "2021"
+description = "A lightweight, educational HTTP API framework built in Rust"
+license = "MIT"
+readme = "README.md"
+
+[[example]]
+name = "basic"
+path = "examples/basic.rs"
+
+[dependencies]
+
+[dev-dependencies]
